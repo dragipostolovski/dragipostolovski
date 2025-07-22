@@ -1,5 +1,4 @@
 # 💫 About Me:
-As a WordPress developer, my focus involves creating, designing, and developing personalized websites on the WordPress platform. I possess a deep understanding of WordPress architecture, themes, and plugins, enabling me to craft websites that are not only visually appealing but also functionally efficient.
 
 
 ## 🌐 Socials:
